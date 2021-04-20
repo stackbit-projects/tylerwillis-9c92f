@@ -99,9 +99,8 @@ sections:
           [Nomadic Mentors](https://www.nomadicminds.co/), which has 350
           experienced founders that mentor over 1500 new founders in 28
           countries across the world. I also host [a
-          podcast](www.antipessimists.org), sit on the board of [the Turing
-          School of Software and Design](https://turing.edu/), and [coach 2-3
-          non-profit or startup leaders a
+          podcast](www.antipessimists.org) and [coach 2-3 non-profit or startup
+          leaders a
           year](https://practice.do/users/6swdi8YsGebekZx2hrKxoaIXj8A3/book/oZrU8qg9TW3sKOohCVzH).
         actions:
           - label: Visit Nomadic Mentors
