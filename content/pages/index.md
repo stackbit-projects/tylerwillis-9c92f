@@ -32,7 +32,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
   - type: features_section
-    title: What I do
+    title: What I help people do
     subtitle: Optimism in action
     features:
       - title: Unsuperv
