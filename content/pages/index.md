@@ -119,7 +119,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - label: Apply for Coaching
+          - label: Apply for Coaching (paid)
             url: '#'
             style: link
             has_icon: false
