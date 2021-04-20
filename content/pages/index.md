@@ -7,7 +7,7 @@ sections:
       Skilled optimism is the belief that people can acquire and use skills to
       make the world a better place.
     actions:
-      - label: Contact Me
+      - label: Become a Skilled Optimist
         url: /contact
         style: primary
     image: images/personal site.png
