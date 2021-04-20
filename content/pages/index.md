@@ -35,7 +35,7 @@ sections:
     title: What I help people do
     subtitle: Optimism in action
     features:
-      - title: Unsuperv
+      - title: Make Data-driven Decision
         subtitle: 'Website, blog, social media and more.'
         content: >-
           I will handle content writing for your digital assets, from
