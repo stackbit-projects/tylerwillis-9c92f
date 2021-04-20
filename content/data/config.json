@@ -30,7 +30,8 @@
         ],
         "has_secondary_nav": false,
         "has_anncmnt": true,
-        "anncmnt_content": "Unsupervised announces an amazing new feature.\n"
+        "anncmnt_content": "Unsupervised announces an amazing new feature.\n",
+        "anncmnt_align": "right"
     },
     "footer": {
         "logo": "images/logo.svg",
