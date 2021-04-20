@@ -37,10 +37,13 @@ sections:
     features:
       - title: Make Better Decisions
         subtitle: Unsupervised helps companies use their data to make better decisions.
-        content: >-
-          I will handle content writing for your digital assets, from
-          newsletters and emails, to Facebook and Google campaigns, whitepapers,
-          case studies and product descriptions. No job is too big or small!
+        content: >
+          I co-founded [Unsupervised](https://unsupervised.com/) in 2017. We've
+          built an AI that lets businesses analyze all their data (1000x more
+          than traditional analysis tools) and improve any KPI in their
+          business. Already in 2021, we've helped companies grow their revenue
+          and profit by millions of dollars. Learn more at
+          [www.unsupervised.com](https://unsupervised.com/)
         actions:
           - label: See Writing Samples
             url: /faq
