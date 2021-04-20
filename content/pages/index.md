@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: The future is bright.
-    subtitle: 'I’m Tyler Willis, a founder, investor, and optimist.'
+    subtitle: We
     actions:
       - label: Contact Me
         url: /contact
