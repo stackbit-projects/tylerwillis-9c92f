@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Hi, I''m Tyler'
+    title: 'Hi, I''m Tyler.'
     subtitle: We invent the future
     actions:
       - label: Contact Me
