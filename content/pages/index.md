@@ -10,7 +10,7 @@ sections:
       - label: Read the Essay
         url: /contact
         style: primary
-      - label: lorem-ipsum
+      - label: Become a Skilled Optimist
         url: '#'
         style: link
         has_icon: false
