@@ -35,7 +35,7 @@ sections:
     title: What I help people do
     subtitle: Optimism in action
     features:
-      - title: Make Data-driven Decision
+      - title: Make Better Decisions with Data
         subtitle: 'Website, blog, social media and more.'
         content: >-
           I will handle content writing for your digital assets, from
