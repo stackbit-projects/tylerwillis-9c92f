@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: '"Tyler is a skilled optimist."'
     subtitle: >-
-      Skilled optimism is about believing we can acquire and use skills to make
-      the world a better place.
+      Skilled optimism is the belief that people can acquire and use skills to
+      make the world a better place.
     actions:
       - label: Contact Me
         url: /contact
