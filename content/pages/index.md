@@ -38,11 +38,11 @@ sections:
       - title: Make Better Decisions
         subtitle: Unsupervised helps companies use their data to make better decisions.
         content: >
-          I co-founded [Unsupervised](https://unsupervised.com/) in 2017. We've
-          built an AI that finds the best ways to improve performance on any
-          KPI. Unsupervised can analyze 1000x more data and automatically show
-          your biggest opportunities. Already in 2021, we've helped companies
-          grow their revenue and profit by millions of dollars.
+          I co-founded [Unsupervised](https://unsupervised.com/) in 2017. Our AI
+          finds the best ways to improve performance on any KPI, by analyzing
+          1000x more data and automatically identifying your biggest
+          opportunities. In Q1 of 2021, we helped our customers grow their
+          revenue and profit by millions of dollars.
         actions:
           - label: Visit Unsupervised.com
             url: 'https://unsupervised.com/'
