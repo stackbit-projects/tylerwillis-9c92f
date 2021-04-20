@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Hi, I''m Tyler.'
+    title: '"Tyler is a skilled optimist."'
     subtitle: I believe that serious optimists can make the world a better place.
     actions:
       - label: Contact Me
