@@ -57,10 +57,13 @@ sections:
         media_width: sixty
       - title: Invest in Startups
         subtitle: Kepler Ventures invests in top high-growth companies.
-        content: >-
-          Managing an online business is a full-time job. I will make sure your
-          products look great, sound great, and sell more on your choice of
-          ecommerce platform.
+        content: >
+          Startups are a top source of investment returns. I was a seed-stage
+          investor in Patreon ([$4B
+          valuation](https://www.forbes.com/sites/robsalkowitz/2021/04/09/whats-behind-patreons-4b-valuation)),
+          Lattice ([$1B
+          valuation](https://www.bloomberg.com/news/articles/2021-03-23/tiger-global-leads-lattice-funding-round-at-1-billion-valuation)),
+          Lambda School, Mainstreet, and more.
         actions:
           - label: Learn More
             url: /about
