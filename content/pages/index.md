@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: '"Tyler is a skilled optimist."'
-    subtitle: I believe that serious optimists can make the world a better place.
+    subtitle: Optimism that is rooted in
     actions:
       - label: Contact Me
         url: /contact
