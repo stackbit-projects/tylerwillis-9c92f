@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: The future is bright.
-    subtitle: We
+    subtitle: We invent the future
     actions:
       - label: Contact Me
         url: /contact
