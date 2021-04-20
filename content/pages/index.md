@@ -46,7 +46,7 @@ sections:
         actions:
           - label: Visit Unsupervised.com
             url: 'https://unsupervised.com/'
-            style: link
+            style: primary
             has_icon: true
             icon: arrow-right
             icon_position: right
