@@ -36,7 +36,7 @@ sections:
     subtitle: Optimism in action
     features:
       - title: Make Better Decisions
-        subtitle: Unsupervised helps companies make decisions
+        subtitle: Unsupervised helps companies use their data to make better decisions
         content: >-
           I will handle content writing for your digital assets, from
           newsletters and emails, to Facebook and Google campaigns, whitepapers,
