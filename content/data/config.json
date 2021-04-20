@@ -52,7 +52,7 @@
             {
                 "label": "Twitter",
                 "url": "https://twitter.com/tylerwillis",
-                "style": "link",
+                "style": "primary",
                 "has_icon": true,
                 "icon": "arrow-left",
                 "icon_position": "right",
