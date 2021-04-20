@@ -93,10 +93,16 @@ sections:
         subtitle: >-
           Helping others become skilled optimists helps me have an impact in
           other areas.
-        content: >-
-          I will dive into the ins and outs of your product or service and make
-          sure the right information is communicated throughout your
-          documentation, pamphlets, manuals and technical documents.
+        content: >
+          I helped start two non-profit organizations focused on helping people
+          level up: ZeroGap (now defunct) and [Nomadic
+          Mentors](https://www.nomadicminds.co/) (experienced founders mentoring
+          founders in emerging markets). Nomadic has 350 experienced founders
+          helping mentor over 1500 startup founders in 28 countries. I also host
+          [a podcast](www.antipessimists.org), sit on the board of [the Turing
+          School of Software and Design](https://turing.edu/), and [coach 2-3
+          non-profit or startup leaders a
+          year](https://practice.do/users/6swdi8YsGebekZx2hrKxoaIXj8A3/book/oZrU8qg9TW3sKOohCVzH).
         actions:
           - label: See Past Work
             url: /faq
