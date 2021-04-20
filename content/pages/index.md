@@ -44,7 +44,7 @@ sections:
           business. Already in 2021, we've helped companies grow their revenue
           and profit by millions of dollars.
         actions:
-          - label: See Writing Samples
+          - label: Visit Unsupervised.com
             url: /faq
             style: primary
             has_icon: true
