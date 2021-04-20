@@ -94,12 +94,12 @@ sections:
           Helping others become skilled optimists helps me have an impact in
           other areas.
         content: >
-          I helped start two non-profit organizations focused on helping people
-          level up: ZeroGap (now defunct) and [Nomadic
-          Mentors](https://www.nomadicminds.co/) (experienced founders mentoring
-          founders in emerging markets). Nomadic has 350 experienced founders
-          helping mentor over 1500 startup founders in 28 countries. I also host
-          [a podcast](www.antipessimists.org), sit on the board of [the Turing
+          I help people become skilled and optimistic leaders, so they can have
+          an impact beyond my focus on AI and Tech Investing. I co-founded
+          [Nomadic Mentors](https://www.nomadicminds.co/), which has 350
+          experienced founders that mentor over 1500 new founders in 28
+          countries across the world. I also host [a
+          podcast](www.antipessimists.org), sit on the board of [the Turing
           School of Software and Design](https://turing.edu/), and [coach 2-3
           non-profit or startup leaders a
           year](https://practice.do/users/6swdi8YsGebekZx2hrKxoaIXj8A3/book/oZrU8qg9TW3sKOohCVzH).
