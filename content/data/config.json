@@ -29,7 +29,8 @@
             }
         ],
         "has_secondary_nav": false,
-        "has_anncmnt": false
+        "has_anncmnt": false,
+        "anncmnt_content": "Announcing!\n"
     },
     "footer": {
         "logo": "images/logo.svg",
