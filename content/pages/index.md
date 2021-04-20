@@ -111,7 +111,7 @@ sections:
             icon: arrow-right
             icon_position: right
           - label: Listen to the Podcast
-            url: '#'
+            url: 'https://www.antipessimists.org/podcast'
             style: link
             has_icon: false
             icon: arrow-left
