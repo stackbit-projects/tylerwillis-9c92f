@@ -71,7 +71,7 @@ sections:
           IPO](https://www.cnbc.com/2021/04/14/coinbase-to-debut-on-nasdaq-in-direct-listing.html)),
           and SpaceX. 
         actions:
-          - label: Learn More
+          - label: Become an LP in the Fund
             url: /about
             style: secondary
             has_icon: true
