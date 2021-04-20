@@ -110,7 +110,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-          - label: Listen to the Podcast
+          - label: Listen to the Podcast (free)
             url: 'https://www.antipessimists.org/podcast'
             style: link
             has_icon: false
