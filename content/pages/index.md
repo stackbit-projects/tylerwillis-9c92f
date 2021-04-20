@@ -87,7 +87,7 @@ sections:
             no_follow: false
             type: action
           - label: Visit Kepler Ventures
-            url: '#'
+            url: 'https://keplerventures.com'
             style: link
             has_icon: false
             icon: arrow-left
