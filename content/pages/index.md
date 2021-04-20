@@ -35,7 +35,7 @@ sections:
     title: What I help people do
     subtitle: Optimism in action
     features:
-      - title: Make Better Decisions with Data
+      - title: Make Better Decisions
         subtitle: Unsupervised
         content: >-
           I will handle content writing for your digital assets, from
