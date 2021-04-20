@@ -90,7 +90,9 @@ sections:
         media_position: right
         media_width: sixty
       - title: Become Leaders
-        subtitle: 'Your products and services, at scale.'
+        subtitle: >-
+          Helping others become skilled optimists helps me have an impact in
+          other areas.
         content: >-
           I will dive into the ins and outs of your product or service and make
           sure the right information is communicated throughout your
