@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: The future is bright.
+    title: Serious Optimism
     subtitle: 'I’m Tyler Willis, a founder, investor, and optimist.'
     actions:
       - label: Contact Me
