@@ -94,10 +94,8 @@ sections:
           Helping others become skilled optimists helps me have an impact in
           other areas.
         content: >
-          I help people become skilled and optimistic leaders, so they can have
-          an impact beyond my focus on AI and Tech Investing. I co-founded
-          [Nomadic Mentors](https://www.nomadicminds.co/), which has 350
-          experienced founders that mentor over 1500 new founders in 28
+          I co-founded [Nomadic Mentors](https://www.nomadicminds.co/), which
+          has 350 experienced founders that mentor over 1500 new founders in 28
           countries across the world. I also host [a
           podcast](www.antipessimists.org) and [coach 2-3 non-profit or startup
           leaders a
