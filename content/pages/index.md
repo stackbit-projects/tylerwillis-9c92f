@@ -35,7 +35,7 @@ sections:
     title: What I do
     subtitle: Optimism in action
     features:
-      - title: Content Creation
+      - title: Unsuperv
         subtitle: 'Website, blog, social media and more.'
         content: >-
           I will handle content writing for your digital assets, from
