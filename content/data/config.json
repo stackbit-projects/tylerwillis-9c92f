@@ -33,7 +33,7 @@
         "anncmnt_content": "Unsupervised announces an amazing new feature.\n",
         "anncmnt_align": "center",
         "anncmnt_is_home_only": true,
-        "anncmnt_has_close": false
+        "anncmnt_has_close": true
     },
     "footer": {
         "logo": "images/logo.svg",
