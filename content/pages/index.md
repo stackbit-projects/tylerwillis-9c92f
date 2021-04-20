@@ -42,8 +42,7 @@ sections:
           built an AI that lets businesses analyze all their data (1000x more
           than traditional analysis tools) and improve any KPI in their
           business. Already in 2021, we've helped companies grow their revenue
-          and profit by millions of dollars. Learn more at
-          [www.unsupervised.com](https://unsupervised.com/)
+          and profit by millions of dollars.
         actions:
           - label: See Writing Samples
             url: /faq
