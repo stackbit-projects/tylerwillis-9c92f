@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: 'Hi, I''m Tyler.'
-    subtitle: We invent the future
+    subtitle: I believe that serious optimists can make the world a better place.
     actions:
       - label: Contact Me
         url: /contact
