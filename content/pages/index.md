@@ -104,7 +104,7 @@ sections:
           non-profit or startup leaders a
           year](https://practice.do/users/6swdi8YsGebekZx2hrKxoaIXj8A3/book/oZrU8qg9TW3sKOohCVzH).
         actions:
-          - label: Visit
+          - label: Visit Nomadic Mentors
             url: /faq
             style: primary
             has_icon: true
