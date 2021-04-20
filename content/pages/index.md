@@ -59,7 +59,7 @@ sections:
         subtitle: Kepler Ventures invests in top high-growth companies.
         content: >
           I run [a venture capital fund](angel.co/v/l/STiEs) that invests
-          $1-10M/yr into startups. I was a seed-stage investor in Patreon ([$4B
+          ~$2M/yr into startups. I was a seed-stage investor in Patreon ([$4B
           valuation](https://www.forbes.com/sites/robsalkowitz/2021/04/09/whats-behind-patreons-4b-valuation)),
           Lattice ([$1B
           valuation](https://www.bloomberg.com/news/articles/2021-03-23/tiger-global-leads-lattice-funding-round-at-1-billion-valuation)),
