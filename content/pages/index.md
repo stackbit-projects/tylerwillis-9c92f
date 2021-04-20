@@ -86,7 +86,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - label: See my past investments
+          - label: Visit Kepler Ventures
             url: '#'
             style: link
             has_icon: false
