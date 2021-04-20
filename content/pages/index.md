@@ -120,7 +120,8 @@ sections:
             no_follow: false
             type: action
           - label: Apply for Coaching (paid)
-            url: '#'
+            url: >-
+              https://practice.do/users/6swdi8YsGebekZx2hrKxoaIXj8A3/book/oZrU8qg9TW3sKOohCVzH
             style: link
             has_icon: false
             icon: arrow-left
