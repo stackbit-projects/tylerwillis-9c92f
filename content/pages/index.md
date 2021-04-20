@@ -47,7 +47,7 @@ sections:
           - label: Visit Unsupervised.com
             url: 'https://unsupervised.com/'
             style: primary
-            has_icon: true
+            has_icon: false
             icon: arrow-right
             icon_position: right
             new_window: true
