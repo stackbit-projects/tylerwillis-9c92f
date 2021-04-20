@@ -72,7 +72,7 @@ sections:
           and SpaceX. 
         actions:
           - label: Become an LP in the Fund
-            url: /about
+            url: angel.co/v/l/STiEs
             style: secondary
             has_icon: true
             icon: arrow-right
