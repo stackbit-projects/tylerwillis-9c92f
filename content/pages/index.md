@@ -45,7 +45,7 @@ sections:
           and profit by millions of dollars.
         actions:
           - label: Visit Unsupervised.com
-            url: /faq
+            url: 'https://unsupervised.com/'
             style: primary
             has_icon: true
             icon: arrow-right
