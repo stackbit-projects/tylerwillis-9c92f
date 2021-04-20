@@ -33,7 +33,7 @@ sections:
     background_image_opacity: 8
   - type: features_section
     title: What I do
-    subtitle: What I do
+    subtitle: Optimism in action
     features:
       - title: Content Creation
         subtitle: 'Website, blog, social media and more.'
