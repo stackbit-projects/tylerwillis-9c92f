@@ -67,7 +67,9 @@ sections:
             icon: arrow-right
             icon_position: right
             new_window: true
-        image: images/Unsupervised Explore Page in Laptop (1).png
+        image: >-
+          images/Such a great company, working with you has helped me so much, I
+          would recommend and use again. TRANSFORM DATA INTO PROFIT.gif
         image_alt: Feature 1 illustration
         media_position: right
         media_width: sixty
