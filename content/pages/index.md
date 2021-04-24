@@ -72,7 +72,7 @@ sections:
           would recommend and use again. TRANSFORM DATA INTO PROFIT.gif
         image_alt: Feature 1 illustration
         media_position: right
-        media_width: sixty
+        media_width: fifty
       - title: Invest in Startups
         subtitle: Kepler Ventures invests in top high-growth companies.
         content: >
