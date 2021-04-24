@@ -8,7 +8,7 @@ sections:
       - label: Unsupervised
         url: /contact
         style: primary
-      - label: lorem-ipsum
+      - label: Investing
         url: '#'
         style: secondary
         has_icon: false
