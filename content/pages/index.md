@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Tyler is a skilled optimist.
+    title: Tyler Willis
     subtitle: >-
       I'm the co-founder of Unsupervised and an investor in several top tech
       companies.
