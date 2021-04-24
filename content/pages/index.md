@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Tyler is a skilled optimist.
-    subtitle: >-
-      I am the co-founder of <a
-      href='"https://www.unsupervised.com">Unsupervised</a>  ad
+    subtitle: I'm the co-founder of Unsupervised and an investor in
     actions:
       - label: Read the Essay
         url: /contact
