@@ -5,7 +5,7 @@ sections:
     title: Tyler Willis
     subtitle: "(n.)\_Skilled optimism is the belief that people can acquire and use skills to make the world a better place."
     actions:
-      - label: Read the Essay
+      - label: Unsupervised
         url: /contact
         style: primary
       - label: Become a Skilled Optimist
