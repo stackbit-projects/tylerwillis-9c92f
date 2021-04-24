@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: Tyler is a skilled optimist.
-    subtitle: I'm the co-founder of Unsupervised and an investor in
+    subtitle: >-
+      I'm the co-founder of Unsupervised and an investor in several top tech
+      companies.
     actions:
       - label: Read the Essay
         url: /contact
