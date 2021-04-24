@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'I''m Tyler Willis, a founder and skilled optimist.'
+    title: 'I''m Tyler Willis, a founder and optimist.'
     subtitle: "(n.)\_Skilled optimism is the belief that people can acquire and use skills to make the world a better place."
     actions:
       - label: Founder
