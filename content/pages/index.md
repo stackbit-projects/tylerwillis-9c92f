@@ -44,7 +44,7 @@ sections:
     title: How I practice Skilled Optimism
     subtitle: My work
     features:
-      - title: Make more money
+      - title: Help companies optimize key KPIs
         subtitle: Unsupervised helps companies use their data to make better decisions.
         content: >
           I co-founded [Unsupervised](https://unsupervised.com/) in 2017. Our AI
