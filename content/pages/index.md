@@ -74,40 +74,6 @@ sections:
         media_position: right
         media_width: fifty
         align: left
-      - title: Invest in Startups
-        subtitle: Kepler Ventures invests in top high-growth companies.
-        content: >
-          I run [a venture capital fund](angel.co/v/l/STiEs) that invests
-          ~$2M/yr into startups. I was a seed-stage investor in Patreon ([$4B
-          valuation](https://www.forbes.com/sites/robsalkowitz/2021/04/09/whats-behind-patreons-4b-valuation)),
-          Lattice ([$1B
-          valuation](https://www.bloomberg.com/news/articles/2021-03-23/tiger-global-leads-lattice-funding-round-at-1-billion-valuation)),
-          Lambda School, MainStreet, and more. I also invested in the Series A
-          of Clubhouse and On Deck, and growth rounds for Lyft ([$24B
-          IPO](https://www.reuters.com/article/us-lyft-ipo/lyft-valued-at-24-3-billion-in-first-ride-hailing-ipo-idUSKCN1R92P4)),
-          Coinbase ([$100B
-          IPO](https://www.cnbc.com/2021/04/14/coinbase-to-debut-on-nasdaq-in-direct-listing.html)),
-          and SpaceX.
-        actions:
-          - label: Invest alongside me
-            url: angel.co/v/l/STiEs
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-          - label: Learn more about Angel Investing
-            url: '#'
-            style: link
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-        image: images/personal site (2).png
-        image_alt: Feature 2 illustration
-        media_position: bottom
-        media_width: sixty
       - title: Become Leaders
         subtitle: >-
           Helping others become skilled optimists helps me have an impact in
