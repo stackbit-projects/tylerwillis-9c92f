@@ -49,9 +49,9 @@ sections:
         content: >
           I co-founded [Unsupervised](https://unsupervised.com/) in 2017. Our AI
           helps you find the best ways to improve any KPI, by automatically
-          analyzing 1000x more data and identifying your best opportunities. In
-          Q1 of 2021, we helped our customers grow their revenue and profit by
-          millions of dollars.
+          analyzing 1000x more data and identifying your best opportunities. As
+          of April, 2021, we have helped our customers grow their revenue and
+          profit by 52 million dollars.
         actions:
           - label: Visit Unsupervised.com
             url: 'https://unsupervised.com/'
