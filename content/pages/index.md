@@ -45,7 +45,9 @@ sections:
     subtitle: My work
     features:
       - title: Help companies optimize key KPIs
-        subtitle: Unsupervised helps companies use their data to make better decisions.
+        subtitle: >-
+          Unsupervised helps companies use their data to find their best
+          opportunities.
         content: >
           I co-founded [Unsupervised](https://unsupervised.com/) in 2017. Our AI
           helps you find the best ways to improve any KPI, by automatically
