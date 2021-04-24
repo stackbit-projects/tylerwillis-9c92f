@@ -68,7 +68,7 @@ sections:
             icon: arrow-right
             icon_position: right
             new_window: true
-        image: images/feature-1.svg
+        image: images/Unsupervised Explore Page in Laptop (1).png
         image_alt: Feature 1 illustration
         media_position: right
         media_width: sixty
