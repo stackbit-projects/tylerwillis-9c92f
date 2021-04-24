@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Tyler Willis
-    subtitle: >-
-      Skilled optimism is the belief that people can acquire and use skills to
-      make the world a better place.
+    subtitle: "(n.)\_Skilled optimism is the belief that people can acquire and use skills to make the world a better place."
     actions:
       - label: Read the Essay
         url: /contact
