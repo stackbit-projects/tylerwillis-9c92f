@@ -9,7 +9,7 @@ sections:
         url: www.unsupervised.com
         style: primary
       - label: Investor
-        url: '#'
+        url: angel.co/v/l/STiEs
         style: secondary
         has_icon: false
         icon: arrow-left
