@@ -6,7 +6,7 @@ sections:
     subtitle: "(n.)\_Skilled optimism is the belief that people can acquire and use skills to make the world a better place."
     actions:
       - label: Founder
-        url: /contact
+        url: www.unsupervised.com
         style: primary
       - label: Investor
         url: '#'
