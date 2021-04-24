@@ -44,7 +44,7 @@ sections:
     title: How I practice Skilled Optimism
     subtitle: My work
     features:
-      - title: Help companies optimize key KPIs
+      - title: Help companies optimize KPIs
         subtitle: >-
           Unsupervised helps companies use their data to find their best
           opportunities.
