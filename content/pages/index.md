@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'I''m Tyler Willis, a founder and optimist.'
+    title: Tyler Willis is a _________
     subtitle: >-
       Skilled optimism is the belief that people can acquire and use skills to
       make the world a better place.
