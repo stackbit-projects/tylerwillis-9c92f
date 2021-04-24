@@ -8,7 +8,7 @@ sections:
       - label: Founder
         url: /contact
         style: primary
-      - label: Investing
+      - label: Investor
         url: '#'
         style: secondary
         has_icon: false
