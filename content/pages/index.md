@@ -42,7 +42,7 @@ sections:
     background_image_opacity: 8
   - type: features_section
     title: I help people...
-    subtitle: My work
+    subtitle: How I practice skilled optimism in my life
     features:
       - title: Make Better Decisions
         subtitle: Unsupervised helps companies use their data to make better decisions.
