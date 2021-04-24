@@ -101,7 +101,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-        image: images/feature-2.svg
+        image: images/personal site (1).png
         image_alt: Feature 2 illustration
         media_position: right
         media_width: sixty
