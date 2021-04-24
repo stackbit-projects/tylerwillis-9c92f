@@ -73,7 +73,7 @@ sections:
         image_alt: Feature 1 illustration
         media_position: right
         media_width: fifty
-        align: right
+        align: left
       - title: Invest in Startups
         subtitle: Kepler Ventures invests in top high-growth companies.
         content: >
