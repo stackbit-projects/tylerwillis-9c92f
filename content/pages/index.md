@@ -106,7 +106,7 @@ sections:
             type: action
         image: images/personal site (2).png
         image_alt: Feature 2 illustration
-        media_position: right
+        media_position: bottom
         media_width: sixty
       - title: Become Leaders
         subtitle: >-
