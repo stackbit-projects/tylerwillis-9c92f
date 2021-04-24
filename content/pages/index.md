@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Tyler Willis
+    title: 'I''m Tyler, co-founder of Unsupervised.'
     subtitle: "(n.)\_Skilled optimism is the belief that people can acquire and use skills to make the world a better place."
     actions:
       - label: Founder
