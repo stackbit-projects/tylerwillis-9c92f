@@ -5,7 +5,7 @@ sections:
     title: Tyler is a skilled optimist.
     subtitle: >-
       I am the co-founder of <a
-      href='"https://www.unsupervised.com">Unsupervised</a> 
+      href='"https://www.unsupervised.com">Unsupervised</a>  ad
     actions:
       - label: Read the Essay
         url: /contact
