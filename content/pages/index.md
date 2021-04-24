@@ -42,7 +42,7 @@ sections:
     background_image_opacity: 8
   - type: features_section
     title: How I practice Skilled Optimism
-    subtitle: 'How I practice skilled optimism in my life:'
+    subtitle: My work
     features:
       - title: Make more money
         subtitle: Unsupervised helps companies use their data to make better decisions.
