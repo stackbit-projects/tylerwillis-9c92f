@@ -44,7 +44,7 @@ sections:
     title: I help people...
     subtitle: 'How I practice skilled optimism in my life:'
     features:
-      - title: Make Better Decisions
+      - title: Make more money
         subtitle: Unsupervised helps companies use their data to make better decisions.
         content: >
           I co-founded [Unsupervised](https://unsupervised.com/) in 2017. Our AI
