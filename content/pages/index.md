@@ -56,7 +56,7 @@ sections:
           investors.
 
 
-          \*\*Does it work?\*\* In the first four months of 2021, our customers
+          **Does it work?** In the first four months of 2021, our customers
           found $52M they can add to their top or bottom line.
         actions:
           - label: Visit Unsupervised.com
