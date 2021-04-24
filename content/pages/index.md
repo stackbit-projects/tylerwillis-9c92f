@@ -49,11 +49,15 @@ sections:
           Unsupervised helps companies use their data to find their best
           opportunities.
         content: >
-          I co-founded [Unsupervised](https://unsupervised.com/) in 2017. Our AI
-          helps you find the best ways to improve any KPI, by automatically
-          analyzing 1000x more data and identifying your best opportunities. As
-          of April, 2021, we have helped our customers grow their revenue and
-          profit by 52 million dollars.
+          I co-founded [Unsupervised](https://unsupervised.com/). Our AI helps
+          you find the best ways to improve any KPI you care about in your
+          business. It can analyze 1000x more data and identify your best
+          opportunities. Unsupervised has raised over $55M from marquee
+          investors.
+
+
+          **Does it work? **In the first four months of 2021, our customers
+          found $52M they can add to their top or bottom line.
         actions:
           - label: Visit Unsupervised.com
             url: 'https://unsupervised.com/'
