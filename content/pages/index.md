@@ -17,7 +17,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: Become a Skilled Optimist
+      - label: What is Skilled Optimism
         url: '#'
         style: link
         has_icon: false
