@@ -50,13 +50,12 @@ sections:
           opportunities.
         content: >
           I co-founded [Unsupervised](https://unsupervised.com/). Our AI helps
-          you find the best ways to improve any KPI you care about in your
-          business. It can analyze 1000x more data and identify your best
-          opportunities. Unsupervised has raised over $55M from marquee
-          investors.
+          companies find the best ways to improve any KPI they care about. It
+          can analyze 1000x more data and help identify your best opportunities.
+          Unsupervised has raised over $55M from marquee investors.
 
 
-          **Does it work?** 
+          **Does it work?**
 
           In the first four months of 2021, our customers found $52M they can
           add to their top or bottom line.
