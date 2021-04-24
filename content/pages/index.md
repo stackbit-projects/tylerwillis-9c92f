@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Tyler Willis
     subtitle: >-
-      I'm the co-founder of Unsupervised and an investor in several top tech
-      companies.
+      Skilled optimism is the belief that people can acquire and use skills to
+      make the world a better place.
     actions:
       - label: Read the Essay
         url: /contact
