@@ -19,7 +19,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: What is Skilled Optimism and Why is it Important?
+      - label: What is Skilled Optimism and why is it important?
         url: '#'
         style: link
         has_icon: false
